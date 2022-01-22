@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisandrofernando
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning react front end and node backend
+- 👀 I’m a Software Test Engineer.
+- 🌱 I know different technologies such as Java, Typescript, Python with different frameworks.
 - 💞️ I’m looking to collaborate with brilliant minds
 - 📫 You can reach out to through "lisandrusfernandus@gmail.com" or 8180546960
 
